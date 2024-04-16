@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import './style.css';
 
 class SubHeader extends Component {
     render() {
@@ -7,7 +6,7 @@ class SubHeader extends Component {
             <header className='header'>
                 <h1>Header Area</h1>
             </header>
-        )   
+        )
     }
 }
 export default SubHeader

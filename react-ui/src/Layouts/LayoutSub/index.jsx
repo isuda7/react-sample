@@ -1,7 +1,7 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import { SubHeader, SubFooter } from '../components';
-import './style.css';
+import '../../Assets/styles.scss';
 
 const LayoutSub = ({children}) => {
   return (
